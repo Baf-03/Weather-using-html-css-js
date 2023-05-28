@@ -1,6 +1,6 @@
 body{
     /* background: linear-gradient(45deg, #FF4E50, #F9D423); */
-    background: linear-gradient(45deg, #F9D423, #FF4E50);
+    background: linear-gradient(45deg,#aad1ff,  #6a92d2);
     font-size: 30px;
 }
 .heading{
@@ -13,7 +13,7 @@ body{
 #box{
     padding: 2%;
     font-family: Comic Sans MS;
-    background: linear-gradient(45deg, #FF4E50, #F9D423);
+    background: linear-gradient(45deg, #6a92d2, #aad1ff);
     margin: auto;
     position: relative;
     width: 30%;
